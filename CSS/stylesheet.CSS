@@ -1,0 +1,22 @@
+html {
+    background-image: url("/images/329647.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.blackBar {
+    background-color: black;
+    opacity: 95%;
+}
+.blackBarLight {
+    background-color: black;
+    opacity: 70%;
+}
+.generalFont {
+    color: rgb(216, 216, 216);
+    font-style: italic;
+}
+#map {
+    height: 400px;
+    width: 100%;
+    
+  }
